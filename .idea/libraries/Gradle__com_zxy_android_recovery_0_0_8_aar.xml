@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zxy.android:recovery:0.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b63ce56515505a8c9982e6ae71c267a/recovery-0.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b63ce56515505a8c9982e6ae71c267a/recovery-0.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zxy.android/recovery/0.0.8/3aec013af5ab70a6b0498992b4383ec14bd34e56/recovery-0.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zxy.android/recovery/0.0.8/8d1e5d27232c45b5e0285d657e660c78a7f1e2c8/recovery-0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
